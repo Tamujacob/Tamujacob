@@ -67,4 +67,12 @@ It analyzes my recent GitHub contributions, pull requests, repository stars, and
 - 🛠️ **[Project Name 2](#)**: Another awesome project showcase...
 - 💡 Add more by linking your repositories here!
 
+---
 
+## 🤝 Let's Connect
+
+[LinkedIn](#) • [Twitter](#) • [Email](mailto:youremail@example.com) • [Portfolio Site](#)
+
+---
+
+*Thank you for checking out my GitHub! ⭐️ If you like my work, let's collaborate or connect!*
