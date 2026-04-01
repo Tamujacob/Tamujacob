@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Tamujacob!
 
-Welcome to my GitHub! I’m a passionate full-stack developer with a love for modern web and backend technologies, data, and beautiful code.
+Welcome to my GitHub! I’m a passionate full-stack developer focused on modern web and backend technologies, data, and clean code.
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tamujacob)
 ![Followers](https://img.shields.io/github/followers/Tamujacob?label=Followers)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-{{REPO_COUNT}}-blue)
+![Public Repos](https://img.shields.io/github/repo-count/Tamujacob?label=Public%20Repos)
 ![Commits This Month](https://img.shields.io/badge/Commits%20this%20month-{{COMMITS_MONTH}}-success)
 
 ---
@@ -19,12 +19,21 @@ Welcome to my GitHub! I’m a passionate full-stack developer with a love for mo
 
 ---
 
-## 🏅 Developer Rating
+## 🏅 Automated Developer Rating
 
-![Developer Rating](https://img.shields.io/badge/Developer%20Rating-A-brightgreen?style=for-the-badge&logo=github)
-<!-- For B or C, just change the "A-brightgreen" part of the badge above -->
+<!-- 
+  This badge is automatically generated based on my GitHub contributions, PRs, stars, and general activity.
+  The rating is updated regularly by a custom GitHub Action/script (see below for more info)!
+-->
+![Developer Rating](https://img.shields.io/badge/Developer%20Rating-auto--generated-brightgreen?style=for-the-badge&logo=github)
 
-_Automated assessment based on contributions, consistency, and project impact._
+*My "Developer Rating" badge is automatically assigned and updated by a custom GitHub Action or script.  
+It analyzes my recent GitHub contributions, pull requests, repository stars, and activity to determine a fair rating (A, B, C, etc.), so it's always current!*
+
+> Want to build your own automated badge?  
+> - Write a script (in Python, JS, etc.) that fetches your GitHub stats via API, applies your custom rating logic, and updates your README badge.
+> - Automate it with a scheduled [GitHub Actions workflow](https://docs.github.com/en/actions).
+> - Need the actual script and action? Ask and I'll provide one tailored for you!
 
 ---
 
@@ -38,17 +47,17 @@ _Automated assessment based on contributions, consistency, and project impact._
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-<img src="https://img.icons8.com/fluency/48/000000/tkinter.png" width="40" title="Tkinter"/> <!-- No official devicon, using icons8 as a placeholder -->
+<img src="https://img.icons8.com/fluency/48/000000/tkinter.png" width="40" title="Tkinter"/>
 
 ---
 
 ## 📚 About Me
 
-- 💼 I am a dedicated software engineer who thrives on building scalable web, desktop and backend solutions.
-- 🎯 Strong interests in automation, system design, and open-source collaboration.
-- 📅 Consistent GitHub contributor since 2024.
+- 💼 Software engineer passionate about scalable solutions and elegant code.
+- 🎯 Loves system design, automation, and open-source collaboration.
+- 📅 Active GitHub contributor since 2024.
 - 🌍 Based in [your city/country here].
-- 🏗️ Always learning something new!
+- 📈 Always learning new technologies!
 
 ---
 
@@ -58,12 +67,4 @@ _Automated assessment based on contributions, consistency, and project impact._
 - 🛠️ **[Project Name 2](#)**: Another awesome project showcase...
 - 💡 Add more by linking your repositories here!
 
----
 
-## 🤝 Let's Connect
-
-[LinkedIn](#) • [Twitter](#) • [Email](mailto:youremail@example.com) • [Portfolio Site](#)
-
----
-
-*Thank you for checking out my GitHub! ⭐️ If you like my work, let's collaborate or connect!*
