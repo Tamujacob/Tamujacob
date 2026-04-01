@@ -39,24 +39,35 @@ It analyzes my recent GitHub contributions, pull requests, repository stars, and
 
 ## 🚀 Most Used Languages & Frameworks
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-<img src="https://img.icons8.com/fluency/48/000000/tkinter.png" width="40" title="Tkinter"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://img.icons8.com/fluency/48/000000/tkinter.png" width="40" title="Tkinter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+</p>
 
 ---
 
 ## 📚 About Me
 
-- 💼 Software engineer passionate about scalable solutions and elegant code.
-- 🎯 Loves system design, automation, and open-source collaboration.
-- 📅 Active GitHub contributor since 2024.
-- 🌍 Based in [your city/country here].
+- 🎓 I’m a student at **Bugema University, Uganda** Studying Information Technology
+- 💡 Passionate about programming, open source, and solving real-world problems
+- 🌱 Currently learning **Java, HTML, CSS, Git/GitHub**, and diving deeper into frameworks like **React Native** and **Django**
+- 🧑‍💻 Working on small projects to grow my skills and build my portfolio
+- 🤝 Looking to contribute to beginner-friendly open-source projects
+- 💼 Software engineer passionate about scalable solutions and elegant code
+- 🎯 Loves system design, automation, and open-source collaboration
+- 📅 Active GitHub contributor since 2024
+- 🌍 Based in Uganda
 - 📈 Always learning new technologies!
 
 ---
@@ -71,7 +82,7 @@ It analyzes my recent GitHub contributions, pull requests, repository stars, and
 
 ## 🤝 Let's Connect
 
-[LinkedIn](#) • [Twitter](#) • [Email](mailto:youremail@example.com) • [Portfolio Site](#)
+[LinkedIn](#) • [Twitter](#) • [Email](mailto:jacobtamukedde@gmail.com) • [Portfolio Site](#)
 
 ---
 
