@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Tamujacob!
+# 👋 Hi, I'm TAMUKEDDE JACOB!
 
-Welcome to my GitHub! I’m a passionate full-stack developer focused on modern web and backend technologies, data, and clean code.
+Welcome to my GitHub! I’m a passionate full-stack developer focused on modern web and backend technologies, data, clean code, and AI enthusiast. 
 
 ---
 
