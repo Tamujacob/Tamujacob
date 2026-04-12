@@ -1,6 +1,6 @@
 # 👋 Hi, I'm TAMUKEDDE JACOB!
 
-Welcome to my GitHub! I’m a passionate full-stack developer focused on modern web and backend technologies, data, clean code, and AI enthusiast. 
+Welcome to my GitHub Account! I’m a passionate full-stack developer focused on modern web and backend technologies, data, clean code, and AI enthusiast. 
 
 ---
 
@@ -66,7 +66,7 @@ It analyzes my recent GitHub contributions, pull requests, repository stars, and
 - 🤝 Looking to contribute to beginner-friendly open-source projects
 - 💼 Software engineer passionate about scalable solutions and elegant code
 - 🎯 Loves system design, automation, and open-source collaboration
-- 🌍 Based in Uganda
+- 🌍 Based in Kampala, Uganda
 - 📈 Always learning new technologies!
 
 ---
@@ -81,7 +81,8 @@ It analyzes my recent GitHub contributions, pull requests, repository stars, and
 
 ## 🤝 Let's Connect
 
-[LinkedIn](#) • [Twitter](#) • [Email](mailto:jacobtamukedde@gmail.com) • [Portfolio Site](#)
+[LinkedIn](#) • [Twitter](#) •[Email](mailto:jacobtamukedde@gmail.com) • [Portfolio Site](#)
+contact +256787022284
 
 ---
 
