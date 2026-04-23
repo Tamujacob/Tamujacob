@@ -81,7 +81,7 @@ It analyzes my recent GitHub contributions, pull requests, repository stars, and
 
 ## 🤝 Let's Connect
 
-[LinkedIn](#https://www.linkedin.com/in/tamukedde-jacob-684019264/) • [Twitter](#) •[Email](mailto:jacobtamukedde@gmail.com) • [Portfolio Site](#)
+[LinkedIn](https://www.linkedin.com/in/tamukedde-jacob-684019264/) • [Twitter](#) •[Email](mailto:jacobtamukedde@gmail.com) • [Portfolio Site](#)
 contact +256787022284
 
 ---
