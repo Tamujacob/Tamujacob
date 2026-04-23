@@ -66,7 +66,7 @@ It analyzes my recent GitHub contributions, pull requests, repository stars, and
 - 🤝 Looking to contribute to beginner-friendly open-source projects
 - 💼 Software engineer passionate about scalable solutions and elegant code
 - 🎯 Loves system design, automation, and open-source collaboration
-- 🌍 Based in Kampala, Uganda
+- 🌍 Based in Gayaza, Kampala, Uganda
 - 📈 Always learning new technologies!
 
 ---
