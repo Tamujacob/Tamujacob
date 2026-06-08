@@ -61,7 +61,7 @@ It analyzes my recent GitHub contributions, pull requests, repository stars, and
 
 - 🎓 I’m a student at **Bugema University, Uganda** Studying Information Technology
 - 💡 Passionate about programming, open source, and solving real-world problems
-- 🌱 Currently learning **Java, HTML, CSS, Git/GitHub**, and diving deeper into frameworks like **React Native** and **Django**
+- 🌱 Currently learning **Java, HTML, CSS, Git/GitHub**, and diving deeper into frameworks like **React Native** and **FastAPI**
 - 🧑‍💻 Working on small projects to grow my skills and build my portfolio
 - 🤝 Looking to contribute to beginner-friendly open-source projects
 - 💼 Software engineer passionate about scalable solutions and elegant code
