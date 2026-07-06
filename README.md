@@ -1,6 +1,6 @@
 # 👋 Hi, I'm TAMUKEDDE JACOB!
 
-Welcome to my GitHub Account! I’m a passionate full-stack developer focused on modern web and backend technologies, data, clean code, and AI enthusiast. 
+Welcome to my GitHub Account! I’m a passionate full-stack developer focused on modern web frontend and backend technologies, data, clean code, and AI enthusiast. 
 
 ---
 
