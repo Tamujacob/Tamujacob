@@ -1,4 +1,4 @@
-# 👋 Hi, I'm TAMUKEDDE JACOB!
+# Hi, I'm TAMUKEDDE JACOB!
 
 Welcome to my GitHub Account! I’m a passionate full-stack developer focused on modern web frontend and backend technologies, data, clean code, and AI enthusiast. 
 
@@ -11,7 +11,7 @@ Welcome to my GitHub Account! I’m a passionate full-stack developer focused on
 
 ---
 
-## 🏆 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamujacob&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tamujacob&theme=dark)
@@ -19,7 +19,7 @@ Welcome to my GitHub Account! I’m a passionate full-stack developer focused on
 
 ---
 
-## 🏅 Automated Developer Rating
+## Automated Developer Rating
 
 <!-- 
   This badge is automatically generated based on my GitHub contributions, PRs, stars, and general activity.
@@ -37,7 +37,7 @@ It analyzes my recent GitHub contributions, pull requests, repository stars, and
 
 ---
 
-## 🚀 Most Used Languages & Frameworks
+## Most Used Languages & Frameworks
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
@@ -57,7 +57,7 @@ It analyzes my recent GitHub contributions, pull requests, repository stars, and
 
 ---
 
-## 📚 About Me
+## About Me
 
 - 🎓 I’m a student at **Bugema University, Uganda** Studying Information Technology
 - 💡 Passionate about programming, open source, and solving real-world problems
