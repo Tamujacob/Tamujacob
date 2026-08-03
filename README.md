@@ -71,7 +71,7 @@ It analyzes my recent GitHub contributions, pull requests, repository stars, and
 
 ---
 
-## 📘 Featured Projects
+## Featured Projects
 
 - 🌐 **[cafe javas clone](https://cafe-javas-clone-restaurant.onrender.com)**: Short project description...
 - 🛠️ **[Project Name 2](#)**: Another awesome project showcase...
@@ -79,7 +79,7 @@ It analyzes my recent GitHub contributions, pull requests, repository stars, and
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/tamukedde-jacob-684019264/) • [Twitter](https://x.com/arje_jacobz) •[Email](mailto:jacobtamukedde@gmail.com) • [Portfolio Site](#)
 contact +256787022284
