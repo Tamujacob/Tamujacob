@@ -59,7 +59,7 @@ It analyzes my recent GitHub contributions, pull requests, repository stars, and
 
 ## About Me
 
-- 🎓 I’m a student at **Bugema University, Uganda** Studying Information Technology
+- 🎓 I’m a graduate from Bugema university with Bachelor's in Information technology 
 - 💡 Passionate about programming, open source, and solving real-world problems
 - 🌱 Currently learning **Java, HTML, CSS, Git/GitHub**, and diving deeper into frameworks like **React Native** and **FastAPI**
 - 🧑‍💻 Working on small projects to grow my skills and build my portfolio
